@@ -1,34 +1,31 @@
-## Hi 👋 I'm Swati
+<h1 align="center">Hi 👋 I'm Swati </h1>
 
-🎓 B.Sc IT student (Mumbai University)  
-📍 India  
-
-🔭 I’m currently working on **Machine Learning assignments and practice projects**  
-🌱 I’m currently learning **Machine Learning concepts, Python, and Data Handling**  
-⚡ Fun fact: I enjoy learning step-by-step and turning confusion into clarity 😄
-### 🧑‍💻 Languages & Libraries  
-
-- Python (basics)  
-- Java  
-- C++  
-- SQL  
-- PL/SQL  
-- HTML  
-- CSS  
-- JavaScript  
-
-**Machine Learning / Data Science Libraries**  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
+<p align="center">
+🎓 B.Sc. IT | Mumbai University <br>
+🤖 Machine Learning Learner
+</p>
 
 ---
 
-### 🛠️ Tools  
+<p align="center">
+🔭 ML assignments & practice projects <br>
+🌱 Python + ML libraries <br>
 
-- Jupyter Notebook  
+</p>
+### 🧑‍💻 Tech Stack  
+
+🐍 Python (basics)  
+☕ Java  
+➕➕ C++  
+🗄️ SQL | PL/SQL  
+🌐 HTML | CSS | JS  
+
+📊 Pandas | NumPy  
+📈 Matplotlib  
+🤖 Scikit-learn  
+
+🛠️ Jupyter Notebook  
 
 ---
 
-⭐ Still learning, still building, still improving.
+✨ Learning. Practicing. Improving.
