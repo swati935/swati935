@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋 I'm Swati </h1>
+<h1 align="center">Hi 👋 I'm Swati</h1>
 
-<p align="center">
+<p>
 🎓 B.Sc. IT | Mumbai University <br>
 🤖 Machine Learning Learner
 </p>
-
 ---
 
-<p align="center">
+<p align>
 🔭 ML assignments & practice projects <br>
 🌱 Python + ML libraries <br>
 
