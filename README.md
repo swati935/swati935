@@ -11,7 +11,7 @@
 🌱 Python + ML libraries <br>
 
 </p>
-### 🧑‍💻 Tech Stack  
+🧑‍💻 Tech Stack  
 
 🐍 Python (basics)  
 ☕ Java  
