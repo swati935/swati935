@@ -4,9 +4,9 @@
 🎓 B.Sc. IT | Mumbai University <br>
 🤖 Machine Learning Learner
 </p>
----
 
-<p align>
+
+<p>
 🔭 ML assignments & practice projects <br>
 🌱 Python + ML libraries <br>
 
